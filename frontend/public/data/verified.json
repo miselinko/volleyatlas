@@ -2,7 +2,8 @@
   "metadata": {
     "as_of": "2026-11-22",
     "status": "curated",
-    "disclaimer": "Odabrani istorijski rezultati i poeni igrača, NE puna sezona niti live feed."
+    "disclaimer": "Odabrani istorijski rezultati i poeni igrača, NE puna sezona niti live feed.",
+    "statCoverage": "Detaljna statistika oba tima iz DataVolley zapisnika: Tours – St-Nazaire 13.11.2026. Ostali mečevi imaju rezultat ili ograničene poene."
   },
   "leagues": [
     {
@@ -12,7 +13,8 @@
       "flag": "🇮🇹",
       "gender": "M",
       "season": "2026/27",
-      "official": "https://www.legavolley.it/"
+      "official": "https://www.legavolley.it/",
+      "logo": "https://images.volleyballworld.com/image/upload/t_q_eco/v1726058387/assets/competition-logos/Super%20Lega/CREDEM-SUPERLEGA-logo-squared.png"
     },
     {
       "id": "fr",
@@ -21,7 +23,8 @@
       "flag": "🇫🇷",
       "gender": "M",
       "season": "2026/27",
-      "official": "https://www.lnv.fr/competitions/alterna-volstar"
+      "official": "https://www.lnv.fr/competitions/alterna-volstar",
+      "logo": "https://lnv.fr/medias/articles/desktop-la-lnv-devoile-volstar-picture-20260901164607.jpg"
     },
     {
       "id": "pl",
@@ -30,7 +33,8 @@
       "flag": "🇵🇱",
       "gender": "M",
       "season": "2026/27",
-      "official": "https://www.tauronliga.pl/"
+      "official": "https://www.tauronliga.pl/",
+      "logo": "https://www.plusliga.pl/_images/account/men/ogimage_tw.jpg"
     }
   ],
   "matches": [
@@ -299,7 +303,7 @@
       "id": "fr-001",
       "league": "fr",
       "date": "2026-11-13",
-      "round": "Kolo",
+      "round": "6. kolo",
       "home": "Tours Volley-Ball",
       "away": "Saint-Nazaire VBA",
       "homeSets": 3,
@@ -325,12 +329,360 @@
       "source": "https://lnv.fr/pdf/2026/DataVolley/Men/D1M042-2027.pdf",
       "players": [
         {
+          "name": "Leandro Nascimento dos Santos",
+          "team": "Tours Volley-Ball",
+          "points": 10,
+          "attackAttempts": 8,
+          "attacksSuccessful": 6,
+          "serveAttempts": 11,
+          "aces": 0,
+          "blocks": 4,
+          "attackErrors": 1,
+          "attacksBlocked": 0,
+          "serveErrors": 2
+        },
+        {
           "name": "Earvin Ngapeth",
           "team": "Tours Volley-Ball",
           "points": 19,
-          "aces": 2,
+          "attackAttempts": 37,
           "attacksSuccessful": 17,
-          "attackAttempts": 37
+          "serveAttempts": 19,
+          "aces": 2,
+          "blocks": 0,
+          "attackErrors": 2,
+          "attacksBlocked": 7,
+          "serveErrors": 4,
+          "receptionAttempts": 27,
+          "receptionPositivePercent": 44,
+          "receptionExcellentPercent": 30,
+          "receptionErrors": 0,
+          "breakPoints": 8
+        },
+        {
+          "name": "Victor Almeida Cardoso",
+          "team": "Tours Volley-Ball",
+          "points": 21,
+          "attackAttempts": 31,
+          "attacksSuccessful": 19,
+          "serveAttempts": 15,
+          "aces": 1,
+          "blocks": 1,
+          "attackErrors": 1,
+          "attacksBlocked": 0,
+          "serveErrors": 2,
+          "receptionAttempts": 23,
+          "receptionPositivePercent": 39,
+          "receptionExcellentPercent": 22,
+          "receptionErrors": 3,
+          "breakPoints": 7
+        },
+        {
+          "name": "Vasilii Molotkov",
+          "team": "Tours Volley-Ball",
+          "points": 15,
+          "attackAttempts": 35,
+          "attacksSuccessful": 14,
+          "serveAttempts": 19,
+          "aces": 1,
+          "blocks": 0,
+          "attackErrors": 5,
+          "attacksBlocked": 2,
+          "serveErrors": 4,
+          "breakPoints": 4
+        },
+        {
+          "name": "François Huetz",
+          "team": "Tours Volley-Ball",
+          "points": 13,
+          "attackAttempts": 11,
+          "attacksSuccessful": 6,
+          "serveAttempts": 17,
+          "aces": 2,
+          "blocks": 5,
+          "attackErrors": 0,
+          "attacksBlocked": 1,
+          "serveErrors": 4,
+          "receptionAttempts": 1,
+          "receptionPositivePercent": 100,
+          "receptionExcellentPercent": 100,
+          "breakPoints": 6
+        },
+        {
+          "name": "Bruno Dias",
+          "team": "Tours Volley-Ball",
+          "points": 3,
+          "attackAttempts": 1,
+          "attacksSuccessful": 1,
+          "serveAttempts": 18,
+          "aces": 2,
+          "blocks": 0,
+          "attackErrors": 0,
+          "attacksBlocked": 0,
+          "serveErrors": 3,
+          "receptionAttempts": 2,
+          "receptionPositivePercent": 50,
+          "breakPoints": 3
+        },
+        {
+          "name": "Luca Ramon",
+          "team": "Tours Volley-Ball",
+          "points": null,
+          "receptionAttempts": 25,
+          "receptionPositivePercent": 72,
+          "receptionExcellentPercent": 24
+        },
+        {
+          "name": "Petar Visic",
+          "team": "Saint-Nazaire VBA",
+          "points": 1,
+          "attackAttempts": 3,
+          "attacksSuccessful": 0,
+          "serveAttempts": 15,
+          "aces": 0,
+          "blocks": 1,
+          "attacksBlocked": 1,
+          "serveErrors": 0,
+          "breakPoints": 1
+        },
+        {
+          "name": "Kaleb Jenness",
+          "team": "Saint-Nazaire VBA",
+          "points": 18,
+          "attackAttempts": 36,
+          "attacksSuccessful": 18,
+          "serveAttempts": 16,
+          "aces": 0,
+          "blocks": 0,
+          "attackErrors": 2,
+          "attacksBlocked": 2,
+          "serveErrors": 5,
+          "receptionAttempts": 19,
+          "receptionErrors": 2,
+          "receptionPositivePercent": 37,
+          "receptionExcellentPercent": 16,
+          "breakPoints": 3
+        },
+        {
+          "name": "William Nack Minyem",
+          "team": "Saint-Nazaire VBA",
+          "points": 13,
+          "attackAttempts": 12,
+          "attacksSuccessful": 9,
+          "serveAttempts": 16,
+          "aces": 1,
+          "blocks": 3,
+          "attacksBlocked": 2,
+          "serveErrors": 1,
+          "breakPoints": 5
+        },
+        {
+          "name": "Spyridon Chandrinos",
+          "team": "Saint-Nazaire VBA",
+          "points": 14,
+          "attackAttempts": 22,
+          "attacksSuccessful": 13,
+          "serveAttempts": 22,
+          "aces": 1,
+          "blocks": 0,
+          "attacksBlocked": 2,
+          "serveErrors": 7,
+          "receptionAttempts": 26,
+          "receptionErrors": 2,
+          "receptionPositivePercent": 42,
+          "receptionExcellentPercent": 27,
+          "breakPoints": 1
+        },
+        {
+          "name": "Yusniel Gonzalez Marti",
+          "team": "Saint-Nazaire VBA",
+          "points": 13,
+          "attackAttempts": 28,
+          "attacksSuccessful": 13,
+          "serveAttempts": 14,
+          "aces": 0,
+          "blocks": 0,
+          "attackErrors": 1,
+          "attacksBlocked": 2,
+          "serveErrors": 2,
+          "receptionAttempts": 2,
+          "breakPoints": 3
+        },
+        {
+          "name": "Etan Jeanlys",
+          "team": "Saint-Nazaire VBA",
+          "points": 10,
+          "attackAttempts": 5,
+          "attacksSuccessful": 3,
+          "serveAttempts": 14,
+          "aces": 1,
+          "blocks": 6,
+          "attacksBlocked": 1,
+          "serveErrors": 4,
+          "breakPoints": 7
+        },
+        {
+          "name": "Arthur Loubeyre Morales",
+          "team": "Saint-Nazaire VBA",
+          "points": null,
+          "receptionAttempts": 38,
+          "receptionErrors": 4,
+          "receptionPositivePercent": 42,
+          "receptionExcellentPercent": 21
+        }
+      ],
+      "venue": "Salle Robert Grenon, Tours",
+      "attendance": 2446,
+      "teamStats": {
+        "home": {
+          "points": 81,
+          "breakPoints": 31,
+          "serveAttempts": 104,
+          "serveErrors": 19,
+          "aces": 8,
+          "receptionAttempts": 79,
+          "receptionErrors": 3,
+          "receptionPositivePercent": 53,
+          "receptionExcellentPercent": 25,
+          "attackAttempts": 123,
+          "attackErrors": 9,
+          "attacksBlocked": 10,
+          "attacksSuccessful": 63,
+          "blocks": 10
+        },
+        "away": {
+          "points": 69,
+          "breakPoints": 20,
+          "serveAttempts": 99,
+          "serveErrors": 20,
+          "aces": 3,
+          "receptionAttempts": 85,
+          "receptionErrors": 8,
+          "receptionPositivePercent": 40,
+          "receptionExcellentPercent": 21,
+          "attackAttempts": 106,
+          "attackErrors": 3,
+          "attacksBlocked": 10,
+          "attacksSuccessful": 56,
+          "blocks": 10
+        }
+      },
+      "setStats": [
+        {
+          "set": 1,
+          "home": {
+            "set": 1,
+            "aces": 2,
+            "attacksSuccessful": 17,
+            "blocks": 2,
+            "attackAttempts": 29,
+            "receptionAttempts": 16,
+            "receptionPositivePercent": 50,
+            "receptionExcellentPercent": 31,
+            "receptionErrors": 1,
+            "attackErrors": 1,
+            "attacksBlocked": 1
+          },
+          "away": {
+            "set": 1,
+            "aces": 1,
+            "attacksSuccessful": 10,
+            "blocks": 1,
+            "attackAttempts": 17,
+            "receptionAttempts": 18,
+            "receptionPositivePercent": 28,
+            "receptionExcellentPercent": null,
+            "receptionErrors": 2,
+            "attackErrors": 0,
+            "attacksBlocked": 2
+          }
+        },
+        {
+          "set": 2,
+          "home": {
+            "set": 2,
+            "aces": 2,
+            "attacksSuccessful": 19,
+            "blocks": 3,
+            "attackAttempts": 34,
+            "receptionAttempts": 24,
+            "receptionPositivePercent": 46,
+            "receptionExcellentPercent": 21,
+            "receptionErrors": 0,
+            "attackErrors": 3,
+            "attacksBlocked": 2
+          },
+          "away": {
+            "set": 2,
+            "aces": 0,
+            "attacksSuccessful": 19,
+            "blocks": 2,
+            "attackAttempts": 35,
+            "receptionAttempts": 27,
+            "receptionPositivePercent": 41,
+            "receptionExcellentPercent": 22,
+            "receptionErrors": 2,
+            "attackErrors": 2,
+            "attacksBlocked": 3
+          }
+        },
+        {
+          "set": 3,
+          "home": {
+            "set": 3,
+            "aces": 0,
+            "attacksSuccessful": 10,
+            "blocks": 4,
+            "attackAttempts": 24,
+            "receptionAttempts": 19,
+            "receptionPositivePercent": 63,
+            "receptionExcellentPercent": 21,
+            "receptionErrors": 1,
+            "attackErrors": 3,
+            "attacksBlocked": 3
+          },
+          "away": {
+            "set": 3,
+            "aces": 1,
+            "attacksSuccessful": 12,
+            "blocks": 3,
+            "attackAttempts": 26,
+            "receptionAttempts": 15,
+            "receptionPositivePercent": 60,
+            "receptionExcellentPercent": 40,
+            "receptionErrors": 0,
+            "attackErrors": 1,
+            "attacksBlocked": 4
+          }
+        },
+        {
+          "set": 4,
+          "home": {
+            "set": 4,
+            "aces": 4,
+            "attacksSuccessful": 17,
+            "blocks": 1,
+            "attackAttempts": 36,
+            "receptionAttempts": 20,
+            "receptionPositivePercent": 55,
+            "receptionExcellentPercent": 30,
+            "receptionErrors": 1,
+            "attackErrors": 2,
+            "attacksBlocked": 4
+          },
+          "away": {
+            "set": 4,
+            "aces": 1,
+            "attacksSuccessful": 15,
+            "blocks": 4,
+            "attackAttempts": 28,
+            "receptionAttempts": 25,
+            "receptionPositivePercent": 36,
+            "receptionExcellentPercent": 24,
+            "receptionErrors": 4,
+            "attackErrors": 0,
+            "attacksBlocked": 1
+          }
         }
       ]
     },
@@ -347,5 +699,11 @@
       "source": "https://www.tauronliga.pl/games/action/show/id/1104813.html#stats",
       "players": []
     }
-  ]
+  ],
+  "clubLogos": {
+    "Allianz Milano": "https://www.legavolley.it/GetLogo.aspx?Char=False&Field=LogoWeb&Key=6394&Proc=LogoSquadra",
+    "Cucine Lube Civitanova": "https://r2.thesportsdb.com/images/media/team/badge/e76uzo1555615698.png",
+    "Tours Volley-Ball": "https://www.toursvolleyball.com/wp-content/uploads/2024/10/cropped-Sans-titre-1.png",
+    "Saint-Nazaire VBA": "https://www.lnv.fr/medias/sports/snvba-500px-907313531_20240920101816.png"
+  }
 }
