@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "as_of": "2026-11-22",
+    "status": "curated",
+    "disclaimer": "Odabrani istorijski rezultati i poeni igrača, NE puna sezona niti live feed."
+  },
+  "leagues": [
+    {
+      "id": "it",
+      "name": "SuperLega Credem Banca",
+      "country": "Italija",
+      "flag": "🇮🇹",
+      "gender": "M",
+      "season": "2026/27",
+      "official": "https://www.legavolley.it/"
+    },
+    {
+      "id": "fr",
+      "name": "Alterna VOLSTAR",
+      "country": "Francuska",
+      "flag": "🇫🇷",
+      "gender": "M",
+      "season": "2026/27",
+      "official": "https://www.lnv.fr/competitions/alterna-volstar"
+    },
+    {
+      "id": "pl",
+      "name": "PlusLiga",
+      "country": "Poljska",
+      "flag": "🇵🇱",
+      "gender": "M",
+      "season": "2026/27",
+      "official": "https://www.tauronliga.pl/"
+    }
+  ],
+  "matches": [
+    {
+      "id": "it-001",
+      "league": "it",
+      "date": "2026-11-08",
+      "round": "5. kolo",
+      "home": "Allianz Milano",
+      "away": "Cucine Lube Civitanova",
+      "homeSets": 0,
+      "awaySets": 3,
+      "sets": [
+        [
+          18,
+          25
+        ],
+        [
+          19,
+          25
+        ],
+        [
+          14,
+          25
+        ]
+      ],
+      "source": "https://ww2.legavolley.it/NewsLeggi.asp?ID=80643&tipo=3",
+      "players": [
+        {
+          "name": "Basil Dermaux",
+          "team": "Allianz Milano",
+          "points": 15
+        },
+        {
+          "name": "Ichino",
+          "team": "Allianz Milano",
+          "points": 5
+        },
+        {
+          "name": "Simon",
+          "team": "Allianz Milano",
+          "points": 5
+        }
+      ]
+    },
+    {
+      "id": "it-002",
+      "league": "it",
+      "date": "2026-11-08",
+      "round": "5. kolo",
+      "home": "Itas Trentino",
+      "away": "Sir Susa Scai Perugia",
+      "homeSets": 2,
+      "awaySets": 3,
+      "sets": [
+        [
+          25,
+          22
+        ],
+        [
+          17,
+          25
+        ],
+        [
+          25,
+          23
+        ],
+        [
+          16,
+          25
+        ],
+        [
+          8,
+          15
+        ]
+      ],
+      "source": "https://ww2.legavolley.it/NewsLeggi.asp?ID=80643&tipo=3",
+      "players": [
+        {
+          "name": "Alessandro Michieletto",
+          "team": "Itas Trentino",
+          "points": 23
+        },
+        {
+          "name": "Faure",
+          "team": "Itas Trentino",
+          "points": 16
+        },
+        {
+          "name": "Plotnytskyi",
+          "team": "Sir Susa Scai Perugia",
+          "points": 22
+        },
+        {
+          "name": "Semeniuk",
+          "team": "Sir Susa Scai Perugia",
+          "points": 18
+        }
+      ]
+    },
+    {
+      "id": "it-003",
+      "league": "it",
+      "date": "2026-11-08",
+      "round": "5. kolo",
+      "home": "Gas Sales Bluenergy Piacenza",
+      "away": "Rana Verona",
+      "homeSets": 3,
+      "awaySets": 0,
+      "sets": [
+        [
+          25,
+          22
+        ],
+        [
+          25,
+          23
+        ],
+        [
+          26,
+          24
+        ]
+      ],
+      "source": "https://ww2.legavolley.it/NewsLeggi.asp?ID=80643&tipo=3",
+      "players": []
+    },
+    {
+      "id": "it-004",
+      "league": "it",
+      "date": "2026-11-08",
+      "round": "5. kolo",
+      "home": "Cisterna Volley",
+      "away": "Pallavolo Padova",
+      "homeSets": 1,
+      "awaySets": 3,
+      "sets": [
+        [
+          20,
+          25
+        ],
+        [
+          20,
+          25
+        ],
+        [
+          25,
+          20
+        ],
+        [
+          22,
+          25
+        ]
+      ],
+      "source": "https://ww2.legavolley.it/NewsLeggi.asp?ID=80643&tipo=3",
+      "players": []
+    },
+    {
+      "id": "it-005",
+      "league": "it",
+      "date": "2026-11-08",
+      "round": "5. kolo",
+      "home": "Vero Volley Monza",
+      "away": "Valsa Group Modena",
+      "homeSets": 0,
+      "awaySets": 3,
+      "sets": [
+        [
+          21,
+          25
+        ],
+        [
+          14,
+          25
+        ],
+        [
+          22,
+          25
+        ]
+      ],
+      "source": "https://ww2.legavolley.it/NewsLeggi.asp?ID=80643&tipo=3",
+      "players": []
+    },
+    {
+      "id": "it-006",
+      "league": "it",
+      "date": "2026-11-04",
+      "round": "4. kolo",
+      "home": "Rana Verona",
+      "away": "Allianz Milano",
+      "homeSets": 3,
+      "awaySets": 2,
+      "sets": [
+        [
+          22,
+          25
+        ],
+        [
+          22,
+          25
+        ],
+        [
+          25,
+          23
+        ],
+        [
+          25,
+          18
+        ],
+        [
+          15,
+          10
+        ]
+      ],
+      "source": "https://ww2.legavolley.it/NewsLeggif.asp?id=80619",
+      "players": [
+        {
+          "name": "Noumory Keita",
+          "team": "Rana Verona",
+          "points": 31
+        },
+        {
+          "name": "Buchegger",
+          "team": "Rana Verona",
+          "points": 16
+        }
+      ]
+    },
+    {
+      "id": "it-007",
+      "league": "it",
+      "date": "2026-11-01",
+      "round": "3. kolo",
+      "home": "Allianz Milano",
+      "away": "Pallavolo Padova",
+      "homeSets": 3,
+      "awaySets": 0,
+      "sets": [
+        [
+          25,
+          15
+        ],
+        [
+          25,
+          21
+        ],
+        [
+          25,
+          18
+        ]
+      ],
+      "source": "https://ww2.legavolley.it/NewsLeggi.asp?ID=80605&tipo=3",
+      "players": [
+        {
+          "name": "Basil Dermaux",
+          "team": "Allianz Milano",
+          "points": 17
+        },
+        {
+          "name": "Otsuka",
+          "team": "Allianz Milano",
+          "points": 9
+        }
+      ]
+    },
+    {
+      "id": "fr-001",
+      "league": "fr",
+      "date": "2026-11-13",
+      "round": "Kolo",
+      "home": "Tours Volley-Ball",
+      "away": "Saint-Nazaire VBA",
+      "homeSets": 3,
+      "awaySets": 1,
+      "sets": [
+        [
+          25,
+          19
+        ],
+        [
+          32,
+          30
+        ],
+        [
+          21,
+          25
+        ],
+        [
+          26,
+          24
+        ]
+      ],
+      "source": "https://lnv.fr/pdf/2026/DataVolley/Men/D1M042-2027.pdf",
+      "players": [
+        {
+          "name": "Earvin Ngapeth",
+          "team": "Tours Volley-Ball",
+          "points": 19,
+          "aces": 2,
+          "attacksSuccessful": 17,
+          "attackAttempts": 37
+        }
+      ]
+    },
+    {
+      "id": "pl-001",
+      "league": "pl",
+      "date": "2026-11-20",
+      "round": "Liga",
+      "home": "InPost ChKS Chełm",
+      "away": "Cuprum Stilon Gorzów",
+      "homeSets": 2,
+      "awaySets": 3,
+      "sets": [],
+      "source": "https://www.tauronliga.pl/games/action/show/id/1104813.html#stats",
+      "players": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "volleyatlas-web",
+  "private": true,
+  "version": "0.3.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "android:init": "npx cap add android",
+    "android:sync": "npm run build && npx cap sync android",
+    "android:debug": "npm run android:sync && cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "lucide-react": "^0.468.0",
+    "@capacitor/core": "^8.1.0",
+    "@capacitor/android": "^8.1.0"
+  },
+  "devDependencies": {
+    "vite": "^7.2.0",
+    "@vitejs/plugin-react": "^5.1.0",
+    "vite-plugin-pwa": "^1.1.0",
+    "typescript": "~5.9.3",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@types/node": "^22.0.0",
+    "@capacitor/cli": "^8.1.0"
+  }
+}
